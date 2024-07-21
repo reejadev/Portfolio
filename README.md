@@ -4,7 +4,7 @@
 
 ## Github repo
 
-This is the [link](https://github.com/reejadev) to the Github repo of the project
+This is the [link](https://github.com/reejadev/Portfolio) to the Github repo of the project
 
 ## Sample Website
 
