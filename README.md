@@ -1,9 +1,3 @@
-# DEVELOPER PORTFOLIO
-
-A portfolio website template for campers
-
-![jane-doe](jane-shot.png)
-
 ## Author
 
 [@reejaanish](https://www.linkedin.com/in/reeja-anish/)
